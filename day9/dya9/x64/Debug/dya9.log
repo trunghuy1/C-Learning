@@ -1,0 +1,4 @@
+﻿  dya9.cpp
+C:\Users\HUY NGUYEN\Desktop\c++\dya9\dya9\dya9.cpp(12,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HUY NGUYEN\Desktop\c++\dya9\dya9\dya9.cpp(13,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  dya9.vcxproj -> C:\Users\HUY NGUYEN\Desktop\c++\dya9\x64\Debug\dya9.exe

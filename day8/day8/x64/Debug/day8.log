@@ -1,0 +1,4 @@
+﻿  day8.cpp
+C:\Users\HUY NGUYEN\Desktop\c++\day8\day8\day8.cpp(15,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HUY NGUYEN\Desktop\c++\day8\day8\day8.cpp(16,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  day8.vcxproj -> C:\Users\HUY NGUYEN\Desktop\c++\day8\x64\Debug\day8.exe
